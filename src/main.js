@@ -11,7 +11,7 @@ import locale from 'element-ui/lib/locale/lang/en'
 // axios.defaults.baseURL = 'https://20.40.202.19:8080'
 
 // 带SSL，解决https请求http接口报错问题
-axios.defaults.baseURL = 'https://www.2b206.icu:8082'
+axios.defaults.baseURL = 'https://www.2b206.icu:8081'
 
 axios.defaults.timeout = 30000
 
